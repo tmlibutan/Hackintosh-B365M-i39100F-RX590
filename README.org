@@ -5,5 +5,5 @@
   | Processor      | Intel(R) Core(TM) i3-9100F          |
   | RAM            | ADATA XPG GAMMIX D10, 8GB, DDR4     |
   | Grapics        | Powercolor RX 590 8GB               |
-  | SSD            | Samsung 970 EVO, 500GB              |
+  | SSD            | Intel 660P 512GB x TG GX2 512GB     |
   | Monitor        | Acer ED270R, 27-inch, 1920x1080     |
