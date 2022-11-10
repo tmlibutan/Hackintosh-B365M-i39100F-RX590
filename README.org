@@ -1,4 +1,4 @@
-#+TITLE: Personal Hackintosh Configuration
+#+TITLE: Public Hackintosh Configuration (0.8.5)
   
 * Hardware
   | Motherboard    | MAG B365M MORTAR(MS-7C67)           |
